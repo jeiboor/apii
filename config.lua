@@ -1,17 +1,21 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '268843574:AAGgTqgtqRNyA2dHhY_2sZeZapP8w_vBNWw',
 	version = '3.0', -- /aupdate for v3.0
 	testing_mode = false,
 	admin = {
-		owner = 23646077,
+		owner = 187161700,
 		admins = {
-			[141956218] = true,
-			[23646077] = true
+			[187161700] = true,
+			[160890821] = true,
+                        [220173570] = true,
+                        [218847628] = true,
+                        [120395246] = true,
+                        [106756758] = true
 		}
 	},
 	log_chat = -1001057801239,
-	channel = '@groupbutler_ch', --channel username with the '@'
-	help_group = 'https://telegram.me/joinchat/CHYUej9jFxFHi6iNcZpe9w', --group link, not username!
+	channel = '@deItaTeam', --channel username with the '@'
+	help_group = 'https://telegram.me/joinchat/CyfcZD7h1WHS2S19cmzrsQ', --group link, not username!
 	languages = 'languages.lua',
 	plugins = {
 		'onmessage.lua', --THIS HAVE TO BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
