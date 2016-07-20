@@ -15,7 +15,7 @@ return {
 	},
 	log_chat = -1001057801239,
 	channel = '@lmAnonymous', --channel username with the '@'
-	help_group = 'https://telegram.me/joinchat/CyfcZD7h1WHS2S19cmzrsQ', --group link, not username!
+	help_group = '', --group link, not username!
 	languages = 'languages.lua',
 	plugins = {
 		'onmessage.lua', --THIS HAVE TO BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
