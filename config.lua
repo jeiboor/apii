@@ -13,7 +13,7 @@ return {
                         [106756758] = true
 		}
 	},
-	log_chat = -1001057801239,
+	log_chat = ,
 	channel = '@lmAnonymous', --channel username with the '@'
 	help_group = '', --group link, not username!
 	languages = 'languages.lua',
