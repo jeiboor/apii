@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '268843574:AAGgTqgtqRNyA2dHhY_2sZeZapP8w_vBNWw',
+	bot_api_key = '259748055:AAH9IePRxe7F8V1Qh-MJQL9B5Z-zCrem-Ko',
 	version = '3.0', -- /aupdate for v3.0
 	testing_mode = false,
 	admin = {
@@ -14,7 +14,7 @@ return {
 		}
 	},
 	log_chat = -1001057801239,
-	channel = '@deItaTeam', --channel username with the '@'
+	channel = '@lmAnonymous', --channel username with the '@'
 	help_group = 'https://telegram.me/joinchat/CyfcZD7h1WHS2S19cmzrsQ', --group link, not username!
 	languages = 'languages.lua',
 	plugins = {
